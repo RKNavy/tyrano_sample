@@ -1,26 +1,24 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="究極の選択"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「究極の選択」[l][r]
 
-メロスは激怒した。[l][r]
+川で２人の人物が溺れている。[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+一人は超金持ちのおじさん、もう一人はS級美少女。[l][r]
 
-(中略)[l][r]
+あなたならどうする？[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+[link target=*tag_money] →金持ちのおじさんを助ける [endlink][r]
+[link target=*tag_girl] →S級美少女を助ける [endlink][r]
+[link target=*tag_both] →両方助ける [endlink][r] 
+[link target=*tag_wait] →レスキューを呼ぶ [endlink][r] 
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
-[s]
-
-*tag_sleep
+*tag_money
 
 [cm]
 
