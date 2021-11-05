@@ -22,7 +22,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=money.png time=500]
 
 メロスは死んだように深く眠った。[l][r]
 勇者は、ひどく赤面した。[r]
